@@ -3,3 +3,5 @@
 -->
 <!--<br/>-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benedettapacilli&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=benedettapacilli&color=blue&abbreviated=true)
